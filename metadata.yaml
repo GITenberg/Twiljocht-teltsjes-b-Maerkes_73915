@@ -1,0 +1,38 @@
+_repo: Twiljocht-teltsjes-b-Maerkes_73915
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kalis, Hermy
+    gutenberg_agent_id: '57272'
+    url: http://www.gutenberg.org/2009/agents/57272
+creator:
+  author:
+    agent_name: Kloosterman, Simke
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '52234'
+    url: http://www.gutenberg.org/2009/agents/52234
+    wikipedia: https://fy.wikipedia.org/wiki/Simke_Kloosterman
+description: ''
+gutenberg_issued: '2024-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73915'
+language: fy
+pgterms:marc905: 20240622072932kloosterma
+pgterms:marc906: '1928'
+pgterms:marc907: nl
+publication_note: '  $aGroningen :$bBroerren Hoitsema, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales, Frisian'
+- !lcc 'PF'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: It mearke fen de trije einepijltsjes -- Jenneput -- It Prinske Amare
+  -- De loksreis fen 'e elfkes -- It snoade jonkje -- Pipenutsje syn wûndere reis
+  -- De skylpodde -- De Prinsesse mei 't gouden parresoltsje -- De iensume beam.
+title: 'Twiljocht-teltsjes : $b Maerkes'
+url: http://www.gutenberg.org/ebooks/73915
